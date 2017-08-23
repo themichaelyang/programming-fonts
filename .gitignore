@@ -1,2 +1,6 @@
 .DS_Store
 *.swp
+
+# ignore SF Mono due to licensing
+San-Francisco-Mono/*.otf
+San-Francisco-Mono/*.ttf
