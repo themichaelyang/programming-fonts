@@ -5,6 +5,8 @@ This is my collection of high quality programming fonts.
 If you're on a Mac, you can install these fonts quickly and also get SF Mono by running:
 
 ```
+$ git clone https://github.com/themichaelyang/programming-fonts.git
+$ cd programming-fonts
 $ chmod +x install.sh
 $ ./install.sh
 ```
