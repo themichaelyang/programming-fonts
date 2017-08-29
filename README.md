@@ -7,7 +7,6 @@ If you're on a Mac, you can get and install these fonts quickly by running:
 ```
 $ git clone https://github.com/themichaelyang/programming-fonts.git
 $ cd programming-fonts
-$ chmod +x install.sh
 $ ./install.sh
 ```
 
